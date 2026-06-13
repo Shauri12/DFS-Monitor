@@ -21,7 +21,8 @@ dist/
 
 # Metadata and chunk databases
 metadata.db
-storage_node*/
+/storage_node*/
+/build/storage_node*/
 *.sqlite
 *.sqlite3
 
