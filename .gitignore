@@ -1,0 +1,30 @@
+# Build directories
+build/
+bin/
+obj/
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+Makefile
+
+# Node dependencies
+node_modules/
+dist/
+.env
+
+# Editor / OS files
+.vscode/
+.idea/
+*.suo
+*.user
+.DS_Store
+
+# Metadata and chunk databases
+metadata.db
+storage_node*/
+*.sqlite
+*.sqlite3
+
+# Test files
+*.mp4
+*.txt
